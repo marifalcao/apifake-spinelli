@@ -12,33 +12,30 @@
       "episodios": [
         {
           "id": 1,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:00:10",
+          "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
+          "url": "https://vimeo.com/video/510839825"
         },
         {
           "id": 2,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:00:19",
+          "titulo": "LongLife - Google Chrome 2020-07-02 09-42-16",
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/339c1d36-eef8-4f4c-b626-4e7419013258.gif?ClientID=vimeo-core-prod&Date=1614112747&Signature=0e9f032b5b322cc85ed384e5aeb86fa8986e51af",
+          "url": "https://vimeo.com/video/511153386"
         },
         {
           "id": 3,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:10:00",
           "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
-        },
-        {
-          "id": 4,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
-        },
-        {
-          "id": 5,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9a85f77-9efd-48bc-a998-14f1606164e4.gif?ClientID=vimeo-core-prod&Date=1614113410&Signature=06ed5bd050234f69c642d443d9c76be04f2bc37d",
+          "url": "https://vimeo.com/510815913"
         }
       ],
       "professores": [
@@ -58,9 +55,12 @@
       "thumb_gif": "https://raw.githubusercontent.com/gwomacks/php-debug/master/screenshot.gif",
       "ultimo_episodio_visto": {
         "id": 1,
-        "titulo": "Episódio 1",
-        "duracao":  "00:30:00",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+        "duracao":  "00:00:10",
+        "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
+        "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+        "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
+        "url": "https://vimeo.com/video/510839825"
       }
     },
     {
@@ -77,33 +77,30 @@
       "episodios": [
         {
           "id": 1,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:00:10",
+          "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
+          "url": "https://vimeo.com/video/510839825"
         },
         {
           "id": 2,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:00:19",
+          "titulo": "LongLife - Google Chrome 2020-07-02 09-42-16",
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/339c1d36-eef8-4f4c-b626-4e7419013258.gif?ClientID=vimeo-core-prod&Date=1614112747&Signature=0e9f032b5b322cc85ed384e5aeb86fa8986e51af",
+          "url": "https://vimeo.com/video/511153386"
         },
         {
           "id": 3,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+          "duracao":  "00:10:00",
           "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
-        },
-        {
-          "id": 4,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
-        },
-        {
-          "id": 5,
-          "titulo": "Episódio 1",
-          "duracao":  "00:30:00",
-          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+          "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+          "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9a85f77-9efd-48bc-a998-14f1606164e4.gif?ClientID=vimeo-core-prod&Date=1614113410&Signature=06ed5bd050234f69c642d443d9c76be04f2bc37d",
+          "url": "https://vimeo.com/510815913"
         }
       ],
       "professores": [
@@ -123,9 +120,12 @@
       "thumb_gif": "https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif",
       "ultimo_episodio_visto": {
         "id": 1,
-        "titulo": "Episódio 1",
-        "duracao":  "00:30:00",
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
+        "duracao":  "00:00:10",
+        "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
+        "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+        "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
+        "url": "https://vimeo.com/video/510839825"
       }
     }
   ],
