@@ -1,0 +1,154 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "area_estudo": {
+        "id": 1,
+        "nome": "Programação"
+      },
+      "arquivos": [],
+      "certificado": "https://pm1.narvii.com/6510/0af4ca472f547baac71093280bc76adf075b675d_hq.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut adipiscing elit ut ipsum dolor sit amet.",
+      "episodios": [
+        {
+          "id": 1,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 2,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 3,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 4,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 5,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        }
+      ],
+      "professores": [
+        {
+          "id": 1,
+          "nome": "Leandro Diógenes",
+          "avatar": "https://assets.papodehomem.com.br/2017/01/04/16/33/08/d45967ec-99a9-4ad0-9edd-c1ad0d37f9fb/lula-molusco-jpg"
+        },
+        {
+          "id": 2,
+          "nome": "Maicon Alves",
+          "avatar": "https://uploads.metropoles.com/wp-content/uploads/2016/06/17082852/girafales1.jpg"
+        }
+      ],
+      "titulo": "House of PHP",
+      "thumb": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/09/Como-Alterar-a-Versao-do-PHP-no-Seu-Painel-de-Hospedagem-1280x720.jpg",
+      "thumb_gif": "https://raw.githubusercontent.com/gwomacks/php-debug/master/screenshot.gif",
+      "ultimo_episodio_visto": {
+        "id": 1,
+        "titulo": "Episódio 1",
+        "duracao":  "00:30:00",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+      }
+    },
+    {
+      "id": 2,
+      "area_estudo": [
+        {
+          "id": 1,
+          "nome": "Programação"
+        }
+      ],
+      "arquivos": [],
+      "certificado": "https://pm1.narvii.com/6510/0af4ca472f547baac71093280bc76adf075b675d_hq.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut adipiscing elit ut ipsum dolor sit amet.",
+      "episodios": [
+        {
+          "id": 1,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 2,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 3,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 4,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        },
+        {
+          "id": 5,
+          "titulo": "Episódio 1",
+          "duracao":  "00:30:00",
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+        }
+      ],
+      "professores": [
+        {
+          "id": 3,
+          "nome": "Mariana Falcão",
+          "avatar": "https://veja.abril.com.br/wp-content/uploads/2018/12/ivete-sangalo-2018-3456.jpg"
+        },
+        {
+          "id": 4,
+          "nome": "Igor Soares",
+          "avatar": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/11/gabigol-do-flamengo.jpg"
+        }
+      ],
+      "titulo": "Strang Scrips",
+      "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
+      "thumb_gif": "https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif",
+      "ultimo_episodio_visto": {
+        "id": 1,
+        "titulo": "Episódio 1",
+        "duracao":  "00:30:00",
+        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla."
+      }
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Leandro Diógenes",
+      "avatar": "https://assets.papodehomem.com.br/2017/01/04/16/33/08/d45967ec-99a9-4ad0-9edd-c1ad0d37f9fb/lula-molusco-jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Maicon Alves",
+      "avatar": "https://uploads.metropoles.com/wp-content/uploads/2016/06/17082852/girafales1.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Mariana Falcão",
+      "avatar": "https://veja.abril.com.br/wp-content/uploads/2018/12/ivete-sangalo-2018-3456.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Igor Soares",
+      "avatar": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/11/gabigol-do-flamengo.jpg"
+    }
+  ]
+}
