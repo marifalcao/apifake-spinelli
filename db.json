@@ -55,7 +55,7 @@
       ],
       "titulo": "House of PHP",
       "thumb": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/09/Como-Alterar-a-Versao-do-PHP-no-Seu-Painel-de-Hospedagem-1280x720.jpg",
-      "thumb_gif": "https://raw.githubusercontent.com/gwomacks/php-debug/master/screenshot.gif",
+      "thumb_gif": "https://raw.githubusercontent.com/gwomacks/php-debug/master/screenshot.gif"
     },
     {
       "id": 2,
@@ -114,7 +114,7 @@
       ],
       "titulo": "Strang Scrips",
       "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
-      "thumb_gif": "https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif",
+      "thumb_gif": "https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif"
     }
   ],
   "professores": [
