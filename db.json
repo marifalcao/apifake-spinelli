@@ -11,6 +11,7 @@
       "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut adipiscing elit ut ipsum dolor sit amet.",
       "episodios": [
         {
+          "assistido": 1,
           "id": 1,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:00:10",
@@ -20,6 +21,7 @@
           "url": "https://vimeo.com/video/510839825"
         },
         {
+          "assistido": 0,
           "id": 2,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:00:19",
@@ -29,6 +31,7 @@
           "url": "https://vimeo.com/video/511153386"
         },
         {
+          "assistido": 0,
           "id": 3,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:10:00",
@@ -53,15 +56,6 @@
       "titulo": "House of PHP",
       "thumb": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/09/Como-Alterar-a-Versao-do-PHP-no-Seu-Painel-de-Hospedagem-1280x720.jpg",
       "thumb_gif": "https://raw.githubusercontent.com/gwomacks/php-debug/master/screenshot.gif",
-      "ultimo_episodio_visto": {
-        "id": 1,
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
-        "duracao":  "00:00:10",
-        "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
-        "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
-        "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
-        "url": "https://vimeo.com/video/510839825"
-      }
     },
     {
       "id": 2,
@@ -76,6 +70,7 @@
       "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ut adipiscing elit ut ipsum dolor sit amet.",
       "episodios": [
         {
+          "assistido": 1,
           "id": 1,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:00:10",
@@ -85,6 +80,7 @@
           "url": "https://vimeo.com/video/510839825"
         },
         {
+          "assistido": 0,
           "id": 2,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:00:19",
@@ -94,6 +90,7 @@
           "url": "https://vimeo.com/video/511153386"
         },
         {
+          "assistido": 0,
           "id": 3,
           "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
           "duracao":  "00:10:00",
@@ -118,15 +115,6 @@
       "titulo": "Strang Scrips",
       "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
       "thumb_gif": "https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif",
-      "ultimo_episodio_visto": {
-        "id": 1,
-        "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum sit et purus et sed dolor, pellentesque pellentesque. Nec sed dui ante nunc, neque faucibus nulla.",
-        "duracao":  "00:00:10",
-        "titulo": "7 Mares - Google Chrome 2020-09-24 17-00-11",
-        "thumb": "https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png",
-        "thumb_gif": "https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c4de978d-70d1-45d9-9d13-203523fbc2a8.gif?ClientID=vimeo-core-prod&Date=1614112412&Signature=ed84c63d857b6904cdf4c9df652de3daf64cf5bb",
-        "url": "https://vimeo.com/video/510839825"
-      }
     }
   ],
   "professores": [
