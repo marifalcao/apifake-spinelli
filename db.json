@@ -51,6 +51,11 @@
           "id": 2,
           "nome": "Maicon Alves",
           "avatar": "https://uploads.metropoles.com/wp-content/uploads/2016/06/17082852/girafales1.jpg"
+        },
+        {
+          "id": 3,
+          "nome": "Mariana Falcão",
+          "avatar": "https://veja.abril.com.br/wp-content/uploads/2018/12/ivete-sangalo-2018-3456.jpg"
         }
       ],
       "titulo": "House of PHP",
